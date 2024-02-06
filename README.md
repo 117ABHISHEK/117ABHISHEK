@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @117ABHISHEK..
-- 👀 I’m interested in game developer..🕹️
+- 👀 I’m interested in game developing as a developer and tester..🕹️
 - 🌱 I’m currently learning computer science and engineering..💻
 - 💞️ I’m looking to collaborate on game developers and game developing company..🎮
 - 📫 How to reach me ...
