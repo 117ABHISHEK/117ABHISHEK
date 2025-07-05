@@ -13,7 +13,7 @@
 - 🧠 Focused on **AI/ML + MERN stack**
 - 🚀 Running a personal challenge: **The Year of Projects (YOP 2025)** — 12 projects in 12 months
 - 💬 Ask me about anything from **web dev, ML, or startup-style solutions**
-- 🛠 Currently working on: `AI Mental Health Assistant`, `ThalAI Guardian`, and `JobHub`
+- 🛠 Currently working on: `AI Mental Health Assistant`, `ThalAI Guardian`, and `Job Portal`
 
 ---
 
