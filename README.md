@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chaugule</h1>
-<h3 align="center">Final Year CS Student | AI Explorer | MERN Stack Dev | Building One Project Every Month 🚀</h3>
+<h3 align="center">Final Year CSE Student | AI Explorer | MERN Stack Dev | Building One Project Every Month 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Developer+with+a+Purpose;AI+is+my+Core+Tool;Building+Tech+that+Heals+%26+Helps;Solo+Leveling" />
