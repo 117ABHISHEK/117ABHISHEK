@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Developer+with+a+Purpose;Building+Tech+that+Heals+%26+Helps;Leveling+Up" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
