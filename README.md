@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Chaugule</h1>
-<h3 align="center">Final Year CSE Student | AI Explorer | MERN Stack Dev | Building One Project Every Month 🚀</h3>
+<h3 align="center" >Final Year CSE Student | AI Explorer | MERN Stack Dev | Building One Project Every Month 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Developer+with+a+Purpose;Building+Tech+that+Heals+%26+Helps;Leveling+Up" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ef4444&center=true&lines=Developer+with+a+Purpose;Building+Tech+that+Heals+%26+Helps;Leveling+Up" />
 </p>
 
 ---
@@ -32,12 +32,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=117abhishek&show_icons=true&theme=radical" alt="Abhishek's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=117abhishek&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=117abhishek&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=117abhishek&show_icons=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=ffffff&bg_color=4b0082" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=117abhishek&hide_border=true&background=4b0082&ring=ef4444&currStreakLabel=ef4444&dates=ffffff&sideLabels=a855f7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=117abhishek&layout=compact&hide_border=true&title_color=ef4444&text_color=ffffff&bg_color=4b0082" />
 </p>
 
 ---
