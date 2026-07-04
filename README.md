@@ -16,6 +16,7 @@
 - 🏆 Cleared 2/3 rounds at NxtWave × OpenAI Academy GenAI Buildathon (70,000+ participants)
 - 🌐 Portfolio: [portfolio-l54t.onrender.com](https://portfolio-l54t.onrender.com)
 - 💬 Ask me about MERN stack, REST API design, or AI/LLM integration
+  
 
 ---
 
