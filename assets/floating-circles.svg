@@ -1,0 +1,42 @@
+<svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glowRed" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowDark" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle r="26" fill="url(#glowRed)">
+    <animateMotion dur="14s" repeatCount="indefinite"
+      path="M50,120 C250,20 450,150 650,60 C850,-10 1000,140 1150,50" />
+    <animate attributeName="opacity" values="0;1;1;0" dur="14s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle r="16" fill="url(#glowDark)">
+    <animateMotion dur="18s" repeatCount="indefinite" begin="-3s"
+      path="M1150,30 C950,130 800,10 600,100 C400,190 200,40 50,110" />
+    <animate attributeName="opacity" values="0;1;1;0" dur="18s" repeatCount="indefinite" begin="-3s"/>
+  </circle>
+
+  <circle r="10" fill="url(#glowRed)">
+    <animateMotion dur="11s" repeatCount="indefinite" begin="-6s"
+      path="M100,20 C300,140 500,10 700,120 C900,20 1050,130 1150,20" />
+    <animate attributeName="opacity" values="0;1;1;0" dur="11s" repeatCount="indefinite" begin="-6s"/>
+  </circle>
+
+  <circle r="20" fill="url(#glowDark)">
+    <animateMotion dur="16s" repeatCount="indefinite" begin="-9s"
+      path="M1100,140 C900,20 700,150 500,30 C300,-10 150,100 30,40" />
+    <animate attributeName="opacity" values="0;1;1;0" dur="16s" repeatCount="indefinite" begin="-9s"/>
+  </circle>
+
+  <circle r="8" fill="url(#glowRed)">
+    <animateMotion dur="9s" repeatCount="indefinite" begin="-2s"
+      path="M200,140 C400,30 600,140 800,40 C1000,140 1100,60 1180,100" />
+    <animate attributeName="opacity" values="0;1;1;0" dur="9s" repeatCount="indefinite" begin="-2s"/>
+  </circle>
+</svg>
