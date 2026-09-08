@@ -13,7 +13,7 @@ Open to full-time roles · Available immediately
 |---|---|
 | **Currently** | Web Developer Intern at Honeybee Digital — leading the team's Laravel → Next.js migration as the only developer there with Next.js experience |
 | **Shipped** | 20+ production-grade projects across healthcare AI, fintech, logistics, and social platforms |
-| **Recognized** | Best Project, Proto2Prod (ThalAI Guardian) · National Finalist, NxtWave × OpenAI Academy GenAI Buildathon (70,000+ participants), IndiaAI Impact Summit, Delhi |
+| **Recognized** | Best Project, Proto2Prod (ThalAI Guardian) · State-Level Qualifier, NxtWave × OpenAI Academy GenAI Buildathon (70,000+ participants),  Pune Regional, Ajeenkya DY Patil University |
 | **Certified** | Microsoft Azure — Fundamentals, Data Fundamentals, AI Skills Fest |
 
 ## About
