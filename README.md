@@ -39,8 +39,11 @@ More at [portfolio-l54t.onrender.com](https://portfolio-l54t.onrender.com) and [
 </p>
 
 **Frontend** React, Next.js, TypeScript, Tailwind CSS
+
 **Backend** Node.js, Express, Python (Flask)
+
 **Data** MongoDB, PostgreSQL, SQLite
+
 **Cloud & Tooling** Azure, Docker, Git, Vercel
 
 ## Let's Talk
