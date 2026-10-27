@@ -1,7 +1,7 @@
 # Abhishek Chaugule
 
 **Full-Stack Developer (MERN + Next.js)** — B.Tech CSE, SGMCOE Gadhinglaj
-Open to full-time roles · Available immediately
+Open to full-time roles · Available immediately 
 
 [LinkedIn](https://www.linkedin.com/in/117abhishek) · [Portfolio](https://portfolio-l54t.onrender.com) · [aschaugule2004@gmail.com](mailto:aschaugule2004@gmail.com)
 
